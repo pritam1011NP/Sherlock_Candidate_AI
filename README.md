@@ -1,8 +1,8 @@
 # 🕵️ Sherlock Candidate AI
 
-
-<p align="center">
 ![At a glance](Samples/poster.png)
+<p align="center">
+
 <img src="https://img.shields.io/badge/Project-Sherlock%20Candidate%20AI-2563EB?style=for-the-badge" alt="Project"/>
 <img src="https://img.shields.io/badge/Status-Development%20Ongoing-F59E0B?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
