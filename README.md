@@ -489,15 +489,15 @@ and build on the concept.
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <p align="center">
-```
+
 ### 🕵️ Sherlock Candidate AI
 
 **Recruitment Intelligence • Candidate Analysis • AI-Assisted Hiring**
 
 Built with ❤️ using React + FastAPI + Material UI
 
-```{=html}
+{=html}
 </p>
-```
+
