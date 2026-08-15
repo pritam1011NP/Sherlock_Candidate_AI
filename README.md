@@ -379,21 +379,21 @@ Then display them in this section:
 
 ### Dashboard
 
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](Samples/dashboard.png)
 
-### Candidate Intelligence
+### Candidate 
 
-![Candidate Intelligence](docs/screenshots/candidates.png)
+![Candidate ](Samples/candidates.png)
 
 ### Settings
 
-![Settings](docs/screenshots/settings.png)
+![Settings](Samples/settings.png)
 
 ------------------------------------------------------------------------
 
 ## 🧩 Current Project State
 
-> 🟡 **Development Paused**
+> 🟡 **Development Ongoing**
 
 The current version represents a completed development phase / working
 foundation.
