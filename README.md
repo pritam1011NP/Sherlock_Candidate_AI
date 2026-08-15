@@ -498,6 +498,6 @@ and build on the concept.
 
 Built with ❤️ using React + FastAPI + Material UI
 
-{=html}
+
 </p>
 
