@@ -1,34 +1,32 @@
 # 🕵️ Sherlock Candidate AI
 
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Project-Sherlock%20Candidate%20AI-2563EB?style=for-the-badge" alt="Project"/>`{=html}
-`<img src="https://img.shields.io/badge/Status-Development%20Paused-F59E0B?style=for-the-badge" alt="Status"/>`{=html}
-`<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>`{=html}
-`<img src="https://img.shields.io/badge/UI-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>`{=html}
-`<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Project-Sherlock%20Candidate%20AI-2563EB?style=for-the-badge" alt="Project"/>
+<img src="https://img.shields.io/badge/Status-Development%20Paused-F59E0B?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/UI-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<strong>`{=html}An AI-powered recruitment intelligence dashboard
+
+<strong>An AI-powered recruitment intelligence dashboard
 designed to help recruiters identify, analyze, verify, and prioritize
-candidates from a single platform.`</strong>`{=html}
-```{=html}
+candidates from a single platform.</strong>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-🚀 `<strong>`{=html}Built as a working project foundation ---
+
+🚀 <strong>Built as a working project foundation ---
 development is currently paused while future features are
-planned.`</strong>`{=html}
-```{=html}
+planned.</strong>
+
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
